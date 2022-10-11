@@ -5,7 +5,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `CS Major` at Faculty of The Physical Science at University of Nigeria, Nsukka
+- :school: I am a `CS Major` at The Faculty of Physical Science at University of Nigeria, Nsukka
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer 
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
