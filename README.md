@@ -9,8 +9,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer 
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]
-(https://drive.google.com/file/d/1x40A2FV6e9BJ6eKGQJnJ-Oo3UpXvlcs6/view?usp=sharing).
+- :thinking: I’m currently open for: `A Backend Developer` `Role`.
 - :nerd_face: Always `learning new things`
 
 <br>
