@@ -9,7 +9,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer 
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `A Backend Developer` `Role`.
+- :thinking: I’m currently open for: `A Software Engineering` `Role`.
 - :nerd_face: Always `learning new things`
 
 <br>
