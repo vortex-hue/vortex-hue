@@ -5,12 +5,12 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `CS Major` at The Faculty of Physical Science at University of Nigeria, Nsukka
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer 
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `A Software Engineering` `Role`.
-- :nerd_face: Always `learning new things`
+- :school: I am a `Software Engineer` at LinkedTrust, <a href="https://team.whatscookin.us"> Teams Page</a>
+- :technologist: I love using Software as a solution for every `Problem I encounter on planet earth`
+- :computer: I am a competitive programmer and a proactive listener
+- :student: I’m currently learning: `Entrepreneurship in Technology` and `Business Partnership`.
+- :thinking: I’m always open to making: `planet earth a better world using` `technology`.
+- :nerd_face: Always `learning, unlearning and relearning`
 
 <br>
 
