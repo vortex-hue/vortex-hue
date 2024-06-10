@@ -1,6 +1,6 @@
-Github | LinkedIn | Resume | Articles | Facebook
+Github | LinkedIn | Resume | Articles 
 :-: | :-: | :-: | :-: | :-:
-[![github](.images/github.png)](https://github.com/vortex-hue) | [![linkedin](.images/linkedin.png)](https://www.linkedin.com/in/peter-ani-642a5722a) | [![resume](.images/file.png)](https://drive.google.com/file/d/1Td0HxjnbTcx1Gj2w-Cq6drpUKmb1_0a8/view?usp=sharing) | [![medium](.images/medium.png)](https://vortex-hue.medium.com) | [!
+[![github](.images/github.png)](https://github.com/vortex-hue) | [![linkedin](.images/linkedin.png)](https://www.linkedin.com/in/peter-ani-642a5722a) | [![resume](.images/file.png)](https://drive.google.com/file/d/1Td0HxjnbTcx1Gj2w-Cq6drpUKmb1_0a8/view?usp=sharing) | [![medium](.images/medium.png)](https://vortex-hue.medium.com) 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=vortex-hue&show_icons=true&theme=transparent&hide_border=true&hide=stars)
 
