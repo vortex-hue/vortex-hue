@@ -26,19 +26,7 @@ I enjoy solving hard problems, mentoring developers, and shipping products that 
 
 ---
 
-### 🧩 Highlighted Contributions
-
-| Project | Role | Highlights |
-|----------|------|------------|
-| **GoodWeb3-Mono (GoodDollar)** | Contributor | Built *Social Share after First Claim* feature in official SDK, improving user growth. |
-| **LangChain** | Contributor | Fixed agent parser bug improving stability for thousands of builders. |
-| **JuliaOS / Superteam Earn** | Developer | Delivered AI-driven DApp; ranked **3rd** globally. |
-| **LinkedTrust** | Engineer | Designed hybrid cloud infra; cut costs by **60 %** and improved uptime to **99.9 %**. |
-| **Naija Whot (Honeycomb)** | Creator | Built AI-assisted multiplayer blockchain game with real-time fairness logic. |
-
----
-
-### 🏢 Founder @ Qubic Digital Services
+### 🏢 Co-Founder @ Qubic Digital Services
 
 > *“Digital Innovation with Purpose.”*
 
@@ -69,16 +57,14 @@ Visit ➜ [www.qubic.com.ng](https://www.qubic.com.ng)
 
 ---
 
-### 📦 Pinned Projects
+### 📦 Pinned Recent Projects
 
 <div align="center">
 
 | Repo | Description | Stack |
 |------|--------------|-------|
 | [**Naija Whot**](https://github.com/vortex-hue/dex-naija-whot) | AI-powered on-chain card game on Honeycomb | React · Solidity · Anchor · Rust |
-| [**Xcellar**](#) | Smart logistics platform under Qubic Digital | Flutter · Django · PostgreSQL · AWS |
 | [**GoodWeb3 Mono PR #244**](https://github.com/GoodDollar/GoodWeb3-Mono/pull/244) | Added Social Share after first claim feature | React · TypeScript · Web3 |
-| [**Hybrid Cloud Infra**](#) | Terraform + CI/CD modules used in LinkedTrust | Terraform · GitHub Actions · AWS · DO |
 
 </div>
 
@@ -97,9 +83,8 @@ Visit ➜ [www.qubic.com.ng](https://www.qubic.com.ng)
 
 ### ⚡ Quick Snapshot
 
-- 📍 Based in **Nigeria**, collaborating globally.  
-- 💡 Interested in AI Infrastructure, Cloud DevOps, and Decentralized Identity.  
-- 🌱 Currently scaling **Qubic** products & mentoring young devs at **Romeoscript Academy**.  
+- 💡 Interested in Secure, Scale Software Development, DevOps Practices, and Decentralized Identity.  
+- 🌱 Currently growing **LinkedTrust** and **Qubic** products & mentoring young devs.  
 - 🎯 Always open to partnerships that create lasting social or economic value.
 
 ---
